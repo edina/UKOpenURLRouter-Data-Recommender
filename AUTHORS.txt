@@ -2,3 +2,6 @@ All code was developed whilst working at EDINA (http://edina.ac.uk) based at the
 
 Dimitrios Sferopoulos:
     - Email: d.sferopoulos@ed.ac.uk
+
+Sheila Fraser:
+	- Email: sheila.fraser@ed.ac.uk
