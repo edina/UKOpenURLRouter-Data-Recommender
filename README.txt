@@ -79,8 +79,8 @@ WEB APPLICATION
 ===============
 
 The web application uses a MySQL database. A JDBC MySQL driver needs to be downloaded and installed.
-All you have to do is download the driver from here: http://dev.mysql.com/downloads/connector/j/ 
-and save it in the openurlrec/lib/ directory.
+All you have to do is create a 'lib' directory under 'openurlrec', download the driver from 
+here: http://dev.mysql.com/downloads/connector/j/ and save it in the openurlrec/lib/ directory. 
 
 After you have your MySQL database set up, open the file IndexController.groovy in 
 openurlrec/grails-app/controllers/recommenderprototype and edit the following two lines to match
