@@ -1,0 +1,4 @@
+All code was developed whilst working at EDINA (http://edina.ac.uk) based at the University of Edinburgh by:
+
+Dimitrios Sferopoulos:
+    - Email: d.sferopoulos@ed.ac.uk
